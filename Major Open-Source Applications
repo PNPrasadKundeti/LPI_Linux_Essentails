@@ -33,5 +33,12 @@
     dpkg: Debian Package (Debian and Ubuntu absed)
          apt-get: Advance Package Tool, repository is a collection of packages, ubuntu software center we can find various software center
     rpm: Red Hat Package Manager (RHEL, Fedora,SUSE,CentOS)
-         yum:Yellowdog Updater, Modified (free cli for RPM based linux systems)   
-    
+         yum:Yellowdog Updater, Modified (free cli for RPM based linux systems)  
+
+Open-Source Licensing:
+
+Public Domain (CCO 1.0): The Creative Commons 1.0 universal (CCO 1.0) public doamin dedication is a declaration that all works are in the public doamin
+Permissive (BSD): license are a segment of permissive software licenses with minial restrions imposed on usage and distribution    
+CopyLeft (GPL): GNU General public license is a widely used copylet software licenses
+
+Open Source Initiative and Free Software Foundation are two movements that place approvals on open-source software licenses.
