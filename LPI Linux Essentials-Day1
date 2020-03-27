@@ -6,6 +6,36 @@ LPI Linux Essentials
         cmd: uname -r
       GNU Core Utility: core utility are the basic file,shell, and text manipulation of the GNU OS
         cmd: ls --version (gives the coreutiltiy version)  
-    Linux-Embedded Systems
+      xServer: is the gui interface 
+         cmd: sudo X -version
+      GUI(Graphical User Interface):common linux destops include Gnome, KDE, Unity,Cinnamon, MATE and xfce many others
+           when you have the GUI installed you can use the mouse and folders to navigate
+Popular Linux Distributions:
+1. Red Hat Enterprise Linux: payed license and large organization 
+    Distro Details: 
+      Default Desktop: Gnome
+      Package Manager: RPM
+      Init Software: systemd
+      Release Model: Fixed
+2. Ubuntu: user friendly highly poslished desktop Distributions with both communtiy and commerical support, Mint is another
+           fork of distribution from ubuntu 
+    Distro Details: 
+      Default Desktop: Gnome
+      Package Manager: DEB
+      Init Software: systemd
+      Release Model: Rolling (LTS: long term support)
+3. Fedora is developed and maitained by the Fedora Project and owned by Red Hat. cutting edge of 
+    Distro Details: 
+      Default Desktop: Gnome
+      Package Manager: RPM
+      Init Software: systemd
+      Release Model: Rolling
+4. Some other distribution include Debian, CentOS and OpenSUSE 
+
+    Linux-Embedded Systems: A combination of hardware and software for a purpose (popular embedded linux are Android or Rasberry Pi)
+     Android Operating System: designed and maitained by google, is a mobile OS based on modified version fo the linux kernel. designed for the touch screen devices
+     Android uses Google Mobile services, celluar device to make calls or bluetooth or wifi devices
+     Respberry Pi:  is an inexpensive small sized computer used for teaching and learning, like drones or remote cars or toys etc.,
+     Raspbian is the Rasberry Pi Foundations official supported OS can be downloaded for free, its based on Debian distribution
     Linux in the Cloud
-    Added a new filesdc
+   
