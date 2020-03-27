@@ -1,0 +1,37 @@
+1.2 Major Open-Source Applications:
+    Desktop Applications
+       OpenOffice: Writer, Calc, Inpress, Draw, Base and Math
+       LibreOffice: same as OpenOffice forked version
+       FireFox: WebBrowser
+       Thunderbird: default mail client for the webmail (MailClient)
+       Gimp (GNU Image Manulation): similar to photoshop
+       Htop
+    Server Applications:
+       Web Server Applications 
+          Apache HTTP server: is a popular(Tomcat) web server to host your applications
+          NGINX: is a web server that can also be used for revese proxy,load balancing, mail proxy and HTTP Caching
+       Database Applications
+          MySQL: is a open source relational database. together with Linux, Apache,MySQL, PHP/Perl/Python makes LAMP stack used for deploying the Websites.
+          MariaDB: mariaDB is a community developed fork of mySQL, it is the developers intent, better performance than mySQL  
+       FileShare Applications:
+          Samba: is open-source file sharing software for linux that permits sharing with Windows clients through native connectivy using Common Internet File Systems (CIFS).
+             Samba performs: file and print services, authentication and authorization, name resolution and service announcement   
+          NFS: network file system is a distributed file system protocol,permitting clients hosts to access files and directories over the network as local storage.   
+       Private Cloud Applications:
+         ownCloud: is a client/server suite of applications for creating and using file hosting services, just like dropbox, you can host your own cloud for sharing the files etc.,
+         NextCloud: forked project of OwnCloud  
+    Development Languages
+      Shell:run by the command line interpretor, mostely used for scripting, bash is most common shell used in linux
+          for i in {1..10};do touch newfile_$i; done
+      C: general purpose imperative programming Languages designed to be compiled to require minimal runtime support.
+      Java : class based object oriented general purpose, run on any system using JVM
+      JavaScript: HTML, CSS and JavaScript make up the core technogloies of Web development for lot of UI
+      Perl
+      Python: 
+      PHP: Hypertext processor or web developemnt
+    Package Management Tools : how to installation packages are tracked and managed (Colelction of files used for installation, documenation or applicaitons)
+    dpkg: Debian Package (Debian and Ubuntu absed)
+         apt-get: Advance Package Tool, repository is a collection of packages, ubuntu software center we can find various software center
+    rpm: Red Hat Package Manager (RHEL, Fedora,SUSE,CentOS)
+         yum:Yellowdog Updater, Modified (free cli for RPM based linux systems)   
+    

@@ -37,5 +37,8 @@ Popular Linux Distributions:
      Android uses Google Mobile services, celluar device to make calls or bluetooth or wifi devices
      Respberry Pi:  is an inexpensive small sized computer used for teaching and learning, like drones or remote cars or toys etc.,
      Raspbian is the Rasberry Pi Foundations official supported OS can be downloaded for free, its based on Debian distribution
+    
     Linux in the Cloud
-   
+
+    Cloud Providers: AWS, Azure and GPC (poplular ones)
+    Cloud, Regions, Availabily Zones, Subnets     
