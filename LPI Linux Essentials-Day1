@@ -1,0 +1,11 @@
+LPI Linux Essentials 
+    Linux Distributions
+      Collections of components of components that form a Systems
+        cmd: lsb_release -a
+      Kernel: framework that connects the application layer to the hardware of a computer   
+        cmd: uname -r
+      GNU Core Utility: core utility are the basic file,shell, and text manipulation of the GNU OS
+        cmd: ls --version (gives the coreutiltiy version)  
+    Linux-Embedded Systems
+    Linux in the Cloud
+    Added a new filesdc
